@@ -1,0 +1,23 @@
+{
+  "name": "dnd-cc",
+  "version": "1.0.0",
+  "description": "Server to create DnD Character(Hopefully)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baron251/DND-Character-Creation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baron251/DND-Character-Creation/issues"
+  },
+  "homepage": "https://github.com/Baron251/DND-Character-Creation#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
